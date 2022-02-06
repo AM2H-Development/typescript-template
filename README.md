@@ -5,6 +5,7 @@
 * npm init
   * adopt package.json:
   * "main": "./dist/index.js",
+  * "type": "module",
   *   "scripts": { "start": "rm -Rf ./dist && npx tsc && node --experimental-modules --es-module-specifier-resolution=node ."
 * VSC -> Datei -> Ordner öffnen... -> path/to/project-name -> OK
 * VSC -> Arbeitsbereich speichern unter... -> OK
