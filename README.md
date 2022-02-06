@@ -10,7 +10,8 @@
 * VSC -> Arbeitsbereich speichern unter... -> OK
 * zum Terminal
 * wget https://raw.githubusercontent.com/AM2H-Development/typescript-template/main/.gitignore
-* npm install typescript --save-dev
+* npm i --save-dev typescript 
+* npm i --save-dev @types/node
 * EITHER: npx tsc --init
   * adopt the path to ./src
 * OR: wget https://raw.githubusercontent.com/AM2H-Development/typescript-template/main/tsconfig.json
