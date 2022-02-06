@@ -14,3 +14,5 @@
 * EITHER: npx tsc --init
   * adopt the path to ./src
 * OR: wget https://github.com/AM2H-Development/typescript-template/blob/775306fb1ec48fe2a4f9f78f7ead102efdb2c113/tsconfig.json
+* mkdir src src/app
+* touch 
