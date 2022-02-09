@@ -1,5 +1,6 @@
 # typescript-template for local server app
 * clone this template
+* ... todo ...
 
 
 OLD: start from scratch:
