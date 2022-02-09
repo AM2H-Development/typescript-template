@@ -1,5 +1,8 @@
-# typescript-template GIT / WSL / VSC
+# typescript-template for local server app
+* clone this template
 
+
+OLD: start from scratch:
 * git init project-name
 * cd project-name
 * npm init
